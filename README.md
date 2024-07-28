@@ -1,1 +1,1 @@
-# Java Developer Guide
+# Java Developer: Study Guide
