@@ -36,8 +36,8 @@
 | --- | --- | --- |
 | O(1) |  Constante|1  |
 |  O(log2 n)|Logaritmico  |2  |
-|  O(n)|Linear  |2  |3
-|  O(nlog2 n)|n log-start n  |2  |4
+|  O(n)|Linear  |3  |
+|  O(nlog2 n)|n log-start n  |4  |
 |  O(n2)|Cuadrático  |5 |
 
 ## Estructuras de Datos
