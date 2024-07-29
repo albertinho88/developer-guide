@@ -48,6 +48,7 @@ Cada estructura de datos tiene su propósito, así como sus ventajas y desventaj
 ### Arreglos (Arrays)
 
 Los arreglos son ideales para memoria de acceso aleatorio cuando conocemos los índices de sus elementos.
+
 Declaración:
 
 ```
@@ -55,6 +56,7 @@ int[] arrayNumbers = new int[7];
 ```
 
 Un arreglo es una estructura linear, por lo tanto no es una estructura de datos dinámica.
+
 Los arreglos se almacenan como bloques contiguos en memoria. Cada elemento ocupa la misma cantidad de espacio en memoria.
 
 #### Big-O para operaciones de Arreglos
@@ -86,9 +88,13 @@ Los arreglos se almacenan como bloques contiguos en memoria. Cada elemento ocupa
 ## Algoritmos
 
 Un algoritmo describe los pasos a seguir para realizar uns tarea específica.
+
 Un algoritmo no es una implementación.
+
 Pueden haber muchas implementaciones para un mismo algoritmo.
+
 Una implementación es el código escrito cuando hablamos de programación.
+
 Pueden haber muchos algoritmos que realicen una misma tarea.
 
 ### Algoritmos de Ordenamiento
