@@ -32,7 +32,7 @@
 
 **Memory Complexity.-** cantidad de memoria usada para ejecutar un algoritmo. (En la actualidad la memoria es barata, por lo que esto no es un gran problema)
 
-| Big-O | Time Complexity | Orden de Complejidad |
+| Notación Big-O | Time Complexity | Orden |
 | --- | --- | --- |
 | O(1) |  Constante|1  |
 |  O(log2 n)|Logaritmico  |2  |
