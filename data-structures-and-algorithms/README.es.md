@@ -27,9 +27,9 @@
     - [Búsqueda Lineal](#búsqueda-lineal)
     - [Búsqueda Binaria](#búsqueda-binaria)
 
-
 ## Notación Big-O
 **Time Complexity.-** número de pasos que toma ejecutar un algoritmo. El peor escenario nos dirá la complejidad en tiempo.
+
 **Memory Complexity.-** cantidad de memoria usada para ejecutar un algoritmo. (En la actualidad la memoria es barata, por lo que esto no es un gran problema)
 
 | Big-O | Time Complexity | Orden de Complejidad |
