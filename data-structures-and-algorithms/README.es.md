@@ -87,7 +87,7 @@ Los arreglos se almacenan como bloques contiguos en memoria. Cada elemento ocupa
 
 ## Algoritmos
 
-Un algoritmo describe los pasos a seguir para realizar uns tarea específica.
+Un algoritmo describe los pasos a seguir para realizar una tarea específica.
 
 Un algoritmo no es una implementación.
 
